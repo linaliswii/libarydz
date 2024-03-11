@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libarydz", "libarydz\libarydz.csproj", "{2BDE4199-8F94-4E12-92B7-91D2C2E375C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libarydz.Tests", "libarydz.Tests\libarydz.Tests.csproj", "{DCAE90DC-1D39-4B3F-A248-788AA6138A47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BDE4199-8F94-4E12-92B7-91D2C2E375C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDE4199-8F94-4E12-92B7-91D2C2E375C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDE4199-8F94-4E12-92B7-91D2C2E375C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDE4199-8F94-4E12-92B7-91D2C2E375C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCAE90DC-1D39-4B3F-A248-788AA6138A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAE90DC-1D39-4B3F-A248-788AA6138A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAE90DC-1D39-4B3F-A248-788AA6138A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAE90DC-1D39-4B3F-A248-788AA6138A47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {289BB866-E429-425E-B81C-64F0B4EDD65C}
+	EndGlobalSection
+EndGlobal
